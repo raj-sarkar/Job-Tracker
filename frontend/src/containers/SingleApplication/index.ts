@@ -1,0 +1,1 @@
+export { SingleApplication } from "./SingleApplication";
